@@ -1,2 +1,2 @@
 # 4stooges-agi
-Pathfinder
+README.md
